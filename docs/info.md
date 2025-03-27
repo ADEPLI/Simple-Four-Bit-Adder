@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Takes in two four bit numbers and adds them together to get a five bit number in binary.
 
 ## How to test
 
-Explain how to use your project
+Just trying adding numbers together.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+LED Display and Switches
